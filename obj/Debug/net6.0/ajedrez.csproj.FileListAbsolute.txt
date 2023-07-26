@@ -1,0 +1,15 @@
+/home/Juarika/Desktop/c#/ajedrez/obj/Debug/net6.0/ajedrez.csproj.AssemblyReference.cache
+/home/Juarika/Desktop/c#/ajedrez/obj/Debug/net6.0/ajedrez.GeneratedMSBuildEditorConfig.editorconfig
+/home/Juarika/Desktop/c#/ajedrez/obj/Debug/net6.0/ajedrez.AssemblyInfoInputs.cache
+/home/Juarika/Desktop/c#/ajedrez/obj/Debug/net6.0/ajedrez.AssemblyInfo.cs
+/home/Juarika/Desktop/c#/ajedrez/obj/Debug/net6.0/ajedrez.csproj.CoreCompileInputs.cache
+/home/Juarika/Desktop/c#/ajedrez/bin/Debug/net6.0/ajedrez
+/home/Juarika/Desktop/c#/ajedrez/bin/Debug/net6.0/ajedrez.deps.json
+/home/Juarika/Desktop/c#/ajedrez/bin/Debug/net6.0/ajedrez.runtimeconfig.json
+/home/Juarika/Desktop/c#/ajedrez/bin/Debug/net6.0/ajedrez.dll
+/home/Juarika/Desktop/c#/ajedrez/bin/Debug/net6.0/ajedrez.pdb
+/home/Juarika/Desktop/c#/ajedrez/obj/Debug/net6.0/ajedrez.dll
+/home/Juarika/Desktop/c#/ajedrez/obj/Debug/net6.0/refint/ajedrez.dll
+/home/Juarika/Desktop/c#/ajedrez/obj/Debug/net6.0/ajedrez.pdb
+/home/Juarika/Desktop/c#/ajedrez/obj/Debug/net6.0/ajedrez.genruntimeconfig.cache
+/home/Juarika/Desktop/c#/ajedrez/obj/Debug/net6.0/ref/ajedrez.dll
